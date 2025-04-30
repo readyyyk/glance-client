@@ -34,6 +34,9 @@
                     - title: Книжный куб (тдир в T-Tech)
                       url: https://t.me/book_cube
                       icon: si:telegram
+                    - title: Yandex for Teamleads
+                      url: https://t.me/yandexforteamleads
+                      icon: si:telegram
                       
     - size: full
       widgets:
