@@ -8,6 +8,9 @@
           widgets:
             - type: hacker-news
             - type: lobsters
+            - type: reddit
+              subreddit: RooCode
+              show-thumbnails: true
             - type: bookmarks
               groups:
                 - title: Telegram Channels
@@ -27,6 +30,9 @@
                       icon: si:telegram
                     - title: Teamlead Bootcamp [Chat]
                       url: https://t.me/tlbootcamp
+                      icon: si:telegram
+                    - title: Книжный куб (тдир в T-Tech)
+                      url: https://t.me/book_cube
                       icon: si:telegram
                       
     - size: full
